@@ -1,0 +1,35 @@
+========================================================================
+QEMU - Open Source Processor Emulator
+========================================================================
+Copyright (c) 2003-2018 Fabrice Bellard and the QEMU Project developers.
+Website: https://www.qemu.org/
+Source Repository: https://android.googlesource.com/platform/external/qemu/
+
+This application incorporates components from QEMU (arm-softmmu, TCG
+Tiny Code Generator, Ranchu virtual platform).
+
+License:
+QEMU as a whole is released under the GNU General Public License, version 2.
+Parts of QEMU have different compatible licenses:
+- Tiny Code Generator (TCG): BSD-2-Clause / MIT License.
+- Mini-GLib compatibility layer: GNU Library General Public License, version 2 or later.
+- Device emulations: GNU General Public License, version 2.
+
+------------------------------------------------------------------------
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+The licenses for most software are designed to take away your
+freedom to share and change it.  By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change free
+software--to make sure the software is free for all its users.
+------------------------------------------------------------------------
+Full license text available at https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+========================================================================

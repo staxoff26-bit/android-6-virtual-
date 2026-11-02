@@ -1,0 +1,6 @@
+{
+  "name": "Android 6 Virtual",
+  "description": "Audit technique complet et fondations natives pour émulation Android 6.0 Marshmallow sur Honor 4X",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
